@@ -1,0 +1,17 @@
+{
+  "name": "aura-hue-sync",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "John Nolan <me@johnnolan.dev>",
+  "license": "ISC",
+  "dependencies": {
+    "aura-sdk": "^1.0.0",
+    "nvm": "0.0.4",
+    "philips-hue": "^1.2.0"
+  }
+}
